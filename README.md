@@ -4,6 +4,8 @@ This library provides an interface for the Bosch BMP280 digital pressure sensor.
 
 > NOTE: This driver has not been tested on any simulation or circuit. However, all the logic and algorithms have been compared with those of other working drivers.
 
+Datasheet: https://cdn-shop.adafruit.com/datasheets/BST-BMP280-DS001-11.pdf
+
 ## Features
 
 * Communication mode selection (I2C or SPI)
